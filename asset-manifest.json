@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/animeverse-new/static/css/main.4fda27ab.css",
+    "main.js": "/animeverse-new/static/js/main.baf5b4dc.js",
+    "index.html": "/animeverse-new/index.html",
+    "main.4fda27ab.css.map": "/animeverse-new/static/css/main.4fda27ab.css.map",
+    "main.baf5b4dc.js.map": "/animeverse-new/static/js/main.baf5b4dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fda27ab.css",
+    "static/js/main.baf5b4dc.js"
+  ]
+}
